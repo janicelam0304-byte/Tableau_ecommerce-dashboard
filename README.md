@@ -71,4 +71,4 @@ Users can dynamically analyze results by:
 * Dashboard Actions & Filters
 * Year-to-Date (YTD) Analysis
 
-Tableau Public: [Insert Dashboard Link]
+Tableau Public: https://public.tableau.com/views/e-commercedashboard_17804784668970/1?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
